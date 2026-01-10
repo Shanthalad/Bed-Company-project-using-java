@@ -5,7 +5,6 @@
 4. The `find()` method checks whether a specific brand exists.
 5. The `BedCompany` class contains the `main()` method to run the program.
 
----
 
 ## 🚀 Features
 - Store bed company brand names
