@@ -1,4 +1,4 @@
-## ⚙ How the Project Works
+# ⚙ How the Project Works
 1. The `BedCompanyRespository` class stores bed brand names in an array.
 2. Brands are added using the `saveBrand()` method.
 3. The `findAll()` method displays all stored brands.
